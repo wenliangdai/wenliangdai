@@ -5,7 +5,7 @@
 I'm a first year Ph.D. student at HKUST.
 
 Interested in
-- 💻  Coding
-- 🤖  Machine Learning and NLP
+- 💻 &nbsp; Coding
+- 🤖 &nbsp; Machine Learning and NLP
 
 Nice to meet you!
