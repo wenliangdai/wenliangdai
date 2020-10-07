@@ -2,7 +2,7 @@
 
 ### Hello there 👋
 
-I'm a first year Ph.D. student at HKUST.
+I'm a second year Ph.D. student at HKUST.
 
 Interested in
 - 💻 &nbsp; Coding
