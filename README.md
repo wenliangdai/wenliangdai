@@ -2,10 +2,10 @@
 
 ### Hello there 👋
 
-I'm a second year Ph.D. student at HKUST.
+I'm a Ph.D. candidate (second year) at HKUST.
 
 Interested in
 - 💻 &nbsp; Coding
-- 🤖 &nbsp; Machine Learning and NLP
+- 🤖 &nbsp; Deep Learning, NLP, Multimodal, etc.
 
 Nice to meet you!
