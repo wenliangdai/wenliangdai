@@ -2,7 +2,7 @@
 
 ### Hello there 👋
 
-I'm a Ph.D. candidate (second year) at HKUST.
+I'm a Ph.D. candidate (third year) at HKUST.
 
 Interested in
 - 💻 &nbsp; Coding
