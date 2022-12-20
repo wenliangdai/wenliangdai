@@ -2,10 +2,10 @@
 
 ### Hello there 👋
 
-I'm a third-year Ph.D. candidate at HKUST.
+I'm a fourth-year Ph.D. candidate at HKUST.
 
 Interested in
 - 💻 &nbsp; Coding
-- 🤖 &nbsp; Deep Learning, NLP, Multimodal Learning, etc.
+- 🤖 &nbsp; NLP, Vision-Language Learning, etc.
 
 Nice to meet you!
