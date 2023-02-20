@@ -6,7 +6,7 @@ I'm a fourth-year Ph.D. student at HKUST.
 
 Interested in
 - NLP
-- Vision-Language Pretraining
+- Vision-Language, Multimodal
 - Generative AI
 
 Nice to meet you!
