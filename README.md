@@ -2,10 +2,11 @@
 
 ### Hello there 👋
 
-I'm a fourth-year Ph.D. candidate at HKUST.
+I'm a fourth-year Ph.D. student at HKUST.
 
 Interested in
-- 💻 &nbsp; Coding
-- 🤖 &nbsp; NLP, Vision-Language Learning, etc.
+- NLP
+- Vision-Language Pretraining
+- Generative AI
 
 Nice to meet you!
