@@ -4,9 +4,8 @@
 
 I'm a fourth-year Ph.D. student at HKUST.
 
-Interested in
+My research 
 - NLP
 - Vision-Language, Multimodal
 - Generative AI
-
-Nice to meet you!
+- And more!
