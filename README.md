@@ -3,9 +3,7 @@
 ### Hello there 👋
 
 I'm a fourth-year Ph.D. student at HKUST.
-
-My research 
-- NLP
-- Vision-Language, Multimodal
-- Generative AI
-- And more!
+I am a research scientist at NVIDIA's Applied Deep Learning Research (ADLR). 
+I got my PhD degree from HKUST under the supervision of Prof. Pascale Fung.
+My research focus is on Large Vision-Language (Multimodal) Models, LLMs, and more. 
+Feel free to contact 😊
